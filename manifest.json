@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "project": "kanye west chasing you",
+  "buildId": "6e1ab430d9cabacb",
+  "sourceSha256": "6e1ab430d9cabacbde17810043484a3d48512eb6bfbac47a9414b213a69690e4",
+  "sourceBytes": 1497567,
+  "bootstrapBytes": 4780,
+  "liveBootstrap": {
+    "file": "bootstrap.js",
+    "bytes": 5138,
+    "sha256": "4606182f35543184966764730d5fc3742ace4a796c6efbce8c6f6c19a8bc6e3e"
+  },
+  "chunkCount": 1,
+  "chunks": [
+    {
+      "file": "chunks/6e1ab430d9cabacb/chunk-0.js",
+      "bytes": 1498589,
+      "sha256": "e2beb3425cfdb173a404c57129df12343f0756d5f7f9edd35bb738da1238f67a"
+    }
+  ]
+}
